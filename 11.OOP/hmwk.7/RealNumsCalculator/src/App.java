@@ -19,6 +19,6 @@ public class App {
         } catch (Exception e) {
             logger.log(Level.SEVERE, "Error starting the app", e);
         } 
-
+        
     }
 }
