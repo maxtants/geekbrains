@@ -1,0 +1,6 @@
+Commands list:
+new - create new note
+list - return notes list
+get - open note by id
+del - delete note by id
+ex - exit application
